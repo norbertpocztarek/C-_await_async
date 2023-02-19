@@ -1,0 +1,11 @@
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\bin\Debug\await_async.exe.config
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\bin\Debug\await_async.exe
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\bin\Debug\await_async.pdb
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.csproj.AssemblyReference.cache
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.csproj.SuggestedBindingRedirects.cache
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.Form1.resources
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.Properties.Resources.resources
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.csproj.GenerateResource.cache
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.csproj.CoreCompileInputs.cache
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.exe
+C:\Users\smiet\Documents\GitHub\await_async\await_async\await_async\obj\Debug\await_async.pdb
